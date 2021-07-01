@@ -3,7 +3,7 @@
 		"name": "SemEval2014-Restaurant",
 		"description": "The standard SemEval2014-Restaurant dataset consists of 3,452 training, 150 validation, and 1,120 test English sentences from the restaurant reviews. Our task-specfic transformations are based on SemEval2014-Restaurant-TOWE, which provides opinion words and their position. The test set of SemEval2014-Restaurant-TOWE owns 492 different sentences (847 aspect terms).",
 		"available_transformation_type": ["domain", "ut", "domain_domain", "domain_ut", "ut_ut"],
-		"dataset_size": 29032,
+		"dataset_size": 1120,
 		"models": [{
 				"model_name": "LCF-BERT",
 				"paper_link": "https://www.researchgate.net/publication/335238076_LCF_A_Local_Context_Focus_Mechanism_for_Aspect-Based_Sentiment_Classification",
